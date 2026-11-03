@@ -2,10 +2,16 @@
 
 **The problem:**
 The problem. A serious search means LinkedIn plus hundreds of career pages, VC portfolio boards and niche job sites, then judging each JD against the CV, finding a hiring manager and writing a note that does not read like a template. Most tools scrape titles and score them crudely, or auto-apply at volume. I wanted the opposite: fewer, better-matched roles and honest, specific outreach, on a free-tools-first budget and a 16 GB laptop.
+
+
+
 Where it stands (3 Nov 2026).
 • Agent: running end to end on my machine, with search, gating, scoring, review, contacts, drafting, Excel export and inbox tracking.
+
 • Evals: 55 offline regression checks pass (up from 42 of 52 when the latest failure reports came in), plus a per-run quality log. 12 real dead links are queued for a live run on my machine.
+
 • Next: a golden set of my approve and reject decisions to evaluate the LLM's relevance judgement, then a Streamlit app (planned, not built).
+
 I acted as user, PM and builder. The rest of this page shows how it works, how I evaluate it, and the cost, latency, security, accuracy and product trade-offs behind it.
 
 
