@@ -10,10 +10,14 @@ I acted as user, PM and builder. The rest of this page shows how it works, how I
 
 
 
+
+
 **Flow & Architecture:**
 
 
 <img width="380" height="359" alt="image" src="https://github.com/user-attachments/assets/90a2e2bf-45f9-4978-ad8d-6e7aa16b4b13" />
+
+
 
 
 
@@ -34,7 +38,13 @@ I use three axes:
 
 
 
+
+
+
+
 <img width="383" height="205" alt="image" src="https://github.com/user-attachments/assets/255a1801-f43c-44b7-a800-3aa394c097ca" />
+
+
 
 
 
@@ -45,7 +55,10 @@ I use three axes:
 
 
 
+
 <img width="382" height="411" alt="image" src="https://github.com/user-attachments/assets/cc5aa78b-a4d6-4483-80a5-6d90cac3d502" />
+
+
 
 
 
@@ -54,11 +67,16 @@ I use three axes:
 **Models & Tools: cost, latency, accuracy & security**
 
 
+
 <img width="387" height="392" alt="image" src="https://github.com/user-attachments/assets/33f61eb7-d569-428d-8bcf-84c0cbde9acc" />
 
 
 
+
+
 <img width="388" height="365" alt="image" src="https://github.com/user-attachments/assets/70c1dc36-c267-42f5-bd13-7340201ea7cd" />
+
+
 
 
 
